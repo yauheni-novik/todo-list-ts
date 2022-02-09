@@ -1,0 +1,21 @@
+.filter-link {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    height: 34px;
+    padding: 0 10px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+
+    color: rgba(127, 75, 19, 0.42);
+}
+.selected {
+    border: 1px solid #c9955d;
+    box-sizing: border-box;
+    border-radius: 10px;
+}

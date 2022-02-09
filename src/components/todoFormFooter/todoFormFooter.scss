@@ -1,0 +1,27 @@
+.footer-wrapper {
+    display: flex;
+    height: 50px;
+
+    background: #ffca93;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    align-items: center;
+    text-align: center;
+    color: rgba(127, 75, 19, 0.42);
+}
+
+.tasks-info {
+    display: flex;
+
+    margin-left: 30px;
+}
+
+.tasks-filters-wrapper {
+    display: flex;
+    margin-left: auto;
+    margin-right: 30px;
+}
